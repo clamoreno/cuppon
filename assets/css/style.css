@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h5, p, small{
+    font-weight: 300;
+}
+
+.precio-oferta, button, a{
+    font-weight: 500;
+}
+.card-footer{
+    border: none;
+    padding-top: 0;
+    margin-top: 0;
+    font-size: 1.4rem;
+}
